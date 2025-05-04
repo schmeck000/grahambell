@@ -1,0 +1,121 @@
+@charset "UTF-8";
+h1 {
+    text-align: center;
+}
+.container-fluid div {
+    text-align: left;
+    position: relative;
+    left: 50%;
+    margin-top: -323px;
+    margin-left: -204px;
+}
+.container-fluid div ul {
+    list-style-type: none;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: medium;
+    text-align: left;
+    color: rgba(0,0,0,1.00);
+}
+ul li a {
+    color: rgba(0,0,0,1.00);
+    font-style: normal;
+    text-decoration: none;
+}
+.container-fluid div h2 {
+    color: rgba(255,155,0,1.00);
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: xx-large;
+}
+div nav ul {
+}
+.container-fluid div nav {
+    margin-top: -6px;
+}
+ul li :hover {
+    color: rgba(255,115,236,1.00);
+    text-shadow: -1px 0px 36px rgba(255,115,236,0.31);
+}
+nav ul li {
+    margin-top: 8px;
+}
+body ul {
+}
+body div {
+    text-align: center;
+}
+body div ul {
+    text-align: center;
+}
+body h6 div {
+    text-align: left;
+    font-size: medium;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: rgba(0,0,0,1.00);
+}
+body h6 {
+}
+body nav {
+    color: rgba(0,0,0,1.00);
+    text-decoration: none;
+    font-size: medium;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h6 div a {
+}
+body ul a {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: rgba(0,0,0,1.00);
+}
+body ul a :hover {
+    color: rgba(255,166,0,1.00);
+}
+body ul {
+    text-align: left;
+    list-style-type: none;
+}
+div h3 ul {
+    text-align: center;
+    margin-left: -42px;
+}
+div h3 div {
+    text-align: center;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: medium;
+}
+h5 ul li {
+    display: inline-block;
+    text-align: left;
+    font-size: medium;
+    margin-left: 15px;
+}
+body h5 ul {
+    text-align: center;
+    margin-left: -42px;
+}
+body h4 {
+    text-align: center;
+    margin-top: 60px;
+}
+body h5 div {
+    text-align: center;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: medium;
+}
+h3 ul li {
+    display: inline-block;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: medium;
+    text-align: left;
+    margin-left: 15px;
+}
+div ul li {
+    color: rgba(0,0,0,1.00);
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-size: medium;
+}
+body h7 {
+    text-align: center;
+}
